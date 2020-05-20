@@ -4,7 +4,7 @@ Aut0p1vot is developed with the intension of using this tool only for educationa
 Learn - Hack - Secure
 
 ## Description
-available s00n
+Automate the testing of the network route to internal servers of organization using their public server as a PIVOT.  
 
 ## Installation
 Just clone the repository and get started

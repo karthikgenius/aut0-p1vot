@@ -30,6 +30,12 @@ Make sure you are in the aut0p1vot directory.
 ```bash
 ./aut0p1vot.sh
 ```
+
+## Custom Run
+If you want a custom payload to be choose, just go through the sourcelib/metasploit.sh source library
+You can change IP and PORT in sourcelib/networkpref.sh
+And any other customization can be easily done by simply changing variable values.
+
 ## Contribution
 * If you noticed any bugs, report me in twitter:
 [KarthikSainadh](https://twitter.com/Karthikgenius19)  
@@ -39,3 +45,6 @@ Make sure you are in the aut0p1vot directory.
 > "We must be free not because we claim freedom, but because we practice it.” —William Faulkner  
 * Any future work done must follow the guidelines mentioned in GPLv3.0.  
 * [GNU GPLv3.0](https://choosealicense.com/licenses/gpl-3.0/)
+
+
+### Happy Hack

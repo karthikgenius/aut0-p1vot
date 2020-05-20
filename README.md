@@ -1,5 +1,5 @@
 # aut0-p1vot
-![Banner](shorturl.at/htY89)
+![Banner](http://34.198.104.205/banner.png)
 
 
 ## Disclaimer

@@ -8,7 +8,9 @@ Aut0p1vot is developed with the intension of using this tool only for educationa
 
 ## Description
 #### v1.0  
-Automate the testing of the network route to internal servers of organization using their public server as a PIVOT.  
+* Automate the testing of the network route to internal servers of organization using their public server as a PIVOT.  
+* Report demonstrating this tool and its purpose will be available as soon as possible, Just give a try before I demonstrate.  
+
 
 ## Features
 * One Command Execution :star_struck:	.  

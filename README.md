@@ -27,11 +27,11 @@ Make sure you are in the aut0p1vot directory.
 ./aut0p1vot.sh
 ```
 ## Contribution
-If you noticed any bugs, report me in twitter:
+* If you noticed any bugs, report me in twitter:
 [KarthikSainadh](https://twitter.com/Karthikgenius19)  
-If you would like to include some major changes let me know.
+* If you would like to include some major changes let me know.
 
 ## License
-"We must be free not because we claim freedom, but because we practice it.” —William Faulkner  
-Any future work done must follow the guidelines mentioned in GPLv3.0.  
-[GNU GPLv3.0](https://choosealicense.com/licenses/gpl-3.0/)
+> "We must be free not because we claim freedom, but because we practice it.” —William Faulkner  
+* Any future work done must follow the guidelines mentioned in GPLv3.0.  
+* [GNU GPLv3.0](https://choosealicense.com/licenses/gpl-3.0/)

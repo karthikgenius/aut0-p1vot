@@ -20,20 +20,20 @@ MSFDBSTATUS=""
 # checks msfdb installation
 checkMsfdb()
 {
-  which msfdb &> /dev/null && return 0
+  which msfdb &> /dev/null || return 1
 }
 
 # checks metasploit framework installation
 checkMsfconsole()
 {
-  which msfconsole &> /dev/null && return 0
+  which msfconsole &> /dev/null || return 1
 }
 
 # checks msfvenom installation
 # this is mandatory after the msfconsole check
 checkMsfvenom()
 {
-  which msfvenom &> /dev/null && return 0
+  which msfvenom &> /dev/null || return 1
 }
 
 # toggles msfdb Server

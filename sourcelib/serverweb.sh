@@ -13,7 +13,7 @@ SERVERDIRECTORY="/var/www/html/"
 # checks apache2 installation
 checkApache()
 {
-	which apache2 &> /dev/null && return 0
+	which apache2 &> /dev/null || return 1
 }
 
 

@@ -32,9 +32,9 @@ Make sure you are in the aut0p1vot directory.
 ```
 
 ## Custom Run
-If you want a custom payload to be choose, just go through the sourcelib/metasploit.sh source library
-You can change IP and PORT in sourcelib/networkpref.sh
-And any other customization can be easily done by simply changing variable values.
+* If you want a custom payload to be choose, just go through the sourcelib/metasploit.sh source library.  
+* You can change IP and PORT in sourcelib/networkpref.sh.  
+* And any other customization can be easily done by simply changing variable values.
 
 ## Contribution
 * If you noticed any bugs, report me in twitter:

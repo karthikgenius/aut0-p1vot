@@ -6,6 +6,13 @@ Learn - Hack - Secure
 ## Description
 Automate the testing of the network route to internal servers of organization using their public server as a PIVOT.  
 
+## Features
+* One Command Execution :star_struck:	.  
+* Suitable for training the server and network security :slightly_smiling_face:	.  
+* Fully automated :innocent:	. 
+* Source Libraries available, so you can modify the script as you understand the libraries :smiley:	 .  
+* Friendly Author :wink: .  
+
 ## Installation
 Just clone the repository and get started
 

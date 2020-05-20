@@ -15,6 +15,7 @@ cd aut0p1vot
 chmod +x aut0p1vot.sh
 ```
 ## Launch
+Make sure you are in the aut0p1vot directory.
 ```bash
 ./aut0p1vot.sh
 ```

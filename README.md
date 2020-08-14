@@ -1,5 +1,5 @@
 # aut0-p1vot
-![Banner](http://34.198.104.205/banner.png)
+![Banner](https://drive.google.com/file/d/1i5GRb96z4eW1lQmDX2Dlo6ROF3cpseks/view?usp=sharing)
 
 
 ## Disclaimer

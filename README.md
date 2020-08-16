@@ -1,5 +1,5 @@
 # aut0-p1vot
-![Banner](https://github.com/karthikgenius/aut0-p1vot/blob/master/banner.png)
+![Banner](https://i.imgur.com/G5GbQVS.png)
 
 
 ## Disclaimer
